@@ -1,0 +1,69 @@
+# ─────────────────────────────────────────────────────────────
+#  Delphi / RAD Studio
+# ─────────────────────────────────────────────────────────────
+
+# Compiled files
+*.exe
+*.dll
+*.bpl
+*.dcu
+*.dcp
+*.drc
+*.map
+*.dsk
+*.stat
+*.local
+*.identcache
+*.projdata
+*.tvsconfig
+*.skincfg
+*.mab
+*.res.bak
+
+# Cahe
+__history/
+__recovery/
+*.~*
+*.bak
+*.tmp
+
+# compiled resources
+*.res
+
+# build folders
+compiled/
+bin/
+Win32/
+Win64/
+Debug/
+Release/
+
+# exclude project files
+!minesweeper.dproj
+!minesweeper.dpr
+!minesweeper.res
+
+# ─────────────────────────────────────────────────────────────
+#  Runtime
+# ─────────────────────────────────────────────────────────────
+minesweeper.ini
+records.dat
+
+# ─────────────────────────────────────────────────────────────
+#  IDE & OS
+# ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-*
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# ─────────────────────────────────────────────────────────────
+#  logs and debugs
+# ─────────────────────────────────────────────────────────────
+*.log
+*.txt
+!README.txt
+!LICENSE.txt
