@@ -38,7 +38,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/<ваш-ник>/delphi-minesweeper.git
+   git clone https://github.com/delikates-nsk/delphi-minesweeper.git
    ```
 2. Откройте `minesweeper.dproj` в Delphi.
 3. **Project → Build** (Shift+F9).
